@@ -12,6 +12,9 @@ public class Test {
 		
 		
 		System.out.print(xStr.equals(xStrRev));
+		
+		 int a =(int) Math.sqrt(48);
+	        System.out.println(a);
 	}
 
 }
