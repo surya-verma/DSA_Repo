@@ -1,4 +1,4 @@
-package com.slothbears.design.patterns.observer;
+package com.slothbears.design.patterns.observer1;
 
 public class BinaryObserver extends Observer {
 
