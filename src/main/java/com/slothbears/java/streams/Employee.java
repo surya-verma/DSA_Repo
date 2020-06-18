@@ -1,4 +1,4 @@
-package com.slothbears.java.collections.streams;
+package com.slothbears.java.streams;
 
 public class Employee {
 
